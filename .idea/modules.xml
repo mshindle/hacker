@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacker.iml" filepath="$PROJECT_DIR$/.idea/modules/hacker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hacker_main.iml" group="hacker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hacker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hacker_test.iml" group="hacker" />
+    </modules>
+  </component>
+</project>
