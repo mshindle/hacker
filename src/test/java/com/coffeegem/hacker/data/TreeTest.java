@@ -5,9 +5,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by mike on 8/17/16.
- */
 public class TreeTest {
     private static Node<String> root;
 

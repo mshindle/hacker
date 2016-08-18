@@ -5,9 +5,6 @@ import com.google.common.collect.Multimap;
 
 import java.util.Collections;
 
-/**
- * Created by mike on 8/17/16.
- */
 public class MultimapGraph<E> extends Graph<E> {
     private Multimap<E,E> edges = LinkedHashMultimap.create();
 
